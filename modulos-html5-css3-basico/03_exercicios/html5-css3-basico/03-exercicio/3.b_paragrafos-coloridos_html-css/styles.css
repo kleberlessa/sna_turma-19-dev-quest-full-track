@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.paragraph {
+    padding: 20px; /* Internal spacing */
+    margin-bottom: 40px; /* Spacing between paragraphs */
+}
+
+.standard-paragraph {
+    background-color: #F5F5F5; /* Light gray background */
+}
+
+.highlighted-paragraph {
+    background-color: #F0CCE2; /* Highlighted background */
+}
