@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+p {
+
+    margin: 20px;
+    padding: 15px;
+    border: solid 5px rgb(192, 31, 31);
+    background-color: aqua ;
+}
+
+h1 {
+    margin: 20px;
+}

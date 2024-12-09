@@ -1,0 +1,13 @@
+p {
+    margin: 15px 25px 15px;
+    padding: 15px 10px 15px 25px;
+    background-color: aqua;
+    border: 20px solid red;
+}
+h1 {
+    border-style: solid;
+    border-width: 20px;
+    margin: 25px;
+    border-color: red green purple cyan;
+    padding: 10px;
+}
